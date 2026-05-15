@@ -26,7 +26,7 @@ building real-world web applications from the ground up.
 
 ## 📚 Currently Learning
 
-- Python · Database Systems · Web Development
+- GO · Database Systems · Web Development
 
 ## 📬 Contact
 
