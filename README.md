@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=LyhengLT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
 
 ### 👾 Who am I?
 
@@ -85,8 +85,8 @@ fun_fact: >
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
 
 </div>
 
@@ -97,7 +97,7 @@ fun_fact: >
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/LyhengLT)
 
 </div>
 
@@ -107,6 +107,6 @@ fun_fact: >
 
 *"I don't just study code — I build with it."*
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=00FFB3)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LyhengLT.LyhengLT&color=00FFB3)
 
 </div>
