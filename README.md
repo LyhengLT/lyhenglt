@@ -21,8 +21,6 @@
 
 ### 👾 Who am I?
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=LyhengLT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true" />
-
 ```yaml
 name     : Lyheng
 location : Phnom Penh, Cambodia 🇰🇭
@@ -44,8 +42,6 @@ motto: >
   I clone real sites to learn —
   then rebuild with better architecture.
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -96,7 +92,7 @@ motto: >
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=ffffff&dates=888888&stroke=00FFB3" />
 
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=6" />
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=6&cache_seconds=1800" />
 
 </div>
 
@@ -114,7 +110,7 @@ motto: >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-@LyhengLT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyhengLT)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylyheng88@gmail.com)
 
 </div>
 
