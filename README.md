@@ -90,15 +90,9 @@ motto: >
 
 <div align="center">
 
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=ffffff&dates=888888&stroke=00FFB3" />
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=ffffff&dates=888888&stroke=00FFB3" />
 
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=6&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LyhengLT&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&area_color=00FFB3" />
+<img width="780" src="https://github-readme-activity-graph.vercel.app/graph?username=LyhengLT&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&area_color=00FFB3" />
 
 </div>
 
@@ -108,7 +102,7 @@ motto: >
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lyheng-lay-7799b440b)
 [![GitHub](https://img.shields.io/badge/GitHub-@LyhengLT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyhengLT)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylyheng88@gmail.com)
 
