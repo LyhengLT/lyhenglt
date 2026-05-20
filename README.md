@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=200&section=header&text=LyhengLT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Student%20%40%20BELTEI&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=120&section=header" />
+
+```
+██╗  ██╗   ██╗██╗  ██╗███████╗███╗   ██╗ ██████╗
+██║  ╚██╗ ██╔╝██║  ██║██╔════╝████╗  ██║██╔════╝
+██║   ╚████╔╝ ███████║█████╗  ██╔██╗ ██║██║  ███╗
+██║    ╚██╔╝  ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
+███████╗██║   ██║  ██║███████╗██║ ╚████║╚██████╔╝
+╚══════╝╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+```
+
+### `< building the web, one commit at a time />`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue+%2B+Go+Fiber+%7C+Building+real+things;Pixel-perfect+or+nothing.+%F0%9F%8E%AF;Student+%40+BELTEI+%F0%9F%8C%8F+Phnom+Penh)](https://git.io/typing-svg)
 
@@ -85,7 +96,7 @@ motto: >
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=ffffff&dates=888888&stroke=00FFB3" />
 
-<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=6" />
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=6" />
 
 </div>
 
