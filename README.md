@@ -1,45 +1,42 @@
 <div align="center">
 
-```
-██╗  ██╗   ██╗██╗  ██╗███████╗███╗   ██╗ ██████╗
-██║  ╚██╗ ██╔╝██║  ██║██╔════╝████╗  ██║██╔════╝
-██║   ╚████╔╝ ███████║█████╗  ██╔██╗ ██║██║  ███╗
-██║    ╚██╔╝  ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
-███████╗██║   ██║  ██║███████╗██║ ╚████║╚██████╔╝
-╚══════╝╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=200&section=header&text=LyhengLT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Student%20%40%20BELTEI&descAlignY=55&descAlign=50" />
 
-### `< building the web, one commit at a time />`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Student+%40+BELTEI+%F0%9F%8E%93;Vue+%2B+Go+Fiber+enthusiast;Pixel-perfect+or+nothing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue+%2B+Go+Fiber+%7C+Building+real+things;Pixel-perfect+or+nothing.+%F0%9F%8E%AF;Student+%40+BELTEI+%F0%9F%8C%8F+Phnom+Penh)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=LyhengLT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff" />
-
 ### 👾 Who am I?
 
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=LyhengLT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true" />
+
 ```yaml
-name: Lyheng
-location: Phnom Penh, Cambodia 🇰🇭
-education: BELTEI International University
-status: Student × Developer
+name     : Lyheng
+location : Phnom Penh, Cambodia 🇰🇭
+school   : BELTEI International University
+status   : Student × Developer
+
+stack:
+  frontend : Vue.js · JS · HTML · CSS
+  backend  : Go · Fiber v3
+  database : Oracle DB · SQL
+  other    : Python · C# · ns-3
 
 currently:
-  - building: Nomads.com clone (Vue + Go Fiber)
-  - studying: Full-stack web & Oracle DB II
-  - obsessing over: pixel-perfect UIs
+  - building  : Nomads.com clone (Vue + Go Fiber)
+  - studying  : Full-stack web & Oracle DB II
+  - obsessing : pixel-perfect UIs 🔍
 
-fun_fact: >
-  I clone real websites to learn —
-  then rebuild them with better architecture.
+motto: >
+  I clone real sites to learn —
+  then rebuild with better architecture.
 ```
 
----
-
 <br clear="right"/>
+
+---
 
 ### 🧰 Tech Stack
 
@@ -65,6 +62,7 @@ fun_fact: >
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0d1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![macOS](https://img.shields.io/badge/macOS-0d1117?style=for-the-badge&logo=apple&logoColor=ffffff)
 
 </div>
 
@@ -72,12 +70,12 @@ fun_fact: >
 
 ### 🏗️ Featured Projects
 
-| Project | Stack | What it is |
-|--------|-------|------------|
-| 🌍 **Nomads.com Clone** | Vue · Go Fiber v3 | Full-stack remote job board with REST API |
-| 💼 **WIP.co Clone** | HTML · CSS · JS | Pixel-perfect multi-page product showcase |
-| 🇰🇭 **BongThom Clone** | JS ES Modules · JSON | Cambodian jobs site — built in 3 arch versions |
-| 🖥️ **RemoteOK Clone** | Vanilla JS | Dynamic job board with event-driven rendering |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| 🌍 **[Nomads.com Clone](https://github.com/LyhengLT)** | Vue · Go Fiber v3 | Full-stack remote job board with REST API |
+| 💼 **[WIP.co Clone](https://github.com/LyhengLT)** | HTML · CSS · JS | Pixel-perfect multi-page product showcase |
+| 🇰🇭 **[BongThom Clone](https://github.com/LyhengLT)** | JS ES Modules · JSON | Cambodian jobs site — 3 progressive arch versions |
+| 🖥️ **[RemoteOK Clone](https://github.com/LyhengLT)** | Vanilla JS | Dynamic job board with event-driven rendering |
 
 ---
 
@@ -85,9 +83,15 @@ fun_fact: >
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3" />
+<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=LyhengLT&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=ffffff&dates=888888&stroke=00FFB3" />
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LyhengLT&theme=tokyonight&hide_border=true" />
+<img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyhengLT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LyhengLT&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&area_color=00FFB3" />
 
 </div>
 
@@ -97,8 +101,9 @@ fun_fact: >
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/LyhengLT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-@LyhengLT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyhengLT)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -106,8 +111,10 @@ fun_fact: >
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=100&section=footer" />
+
 *"I don't just study code — I build with it."*
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LyhengLT.LyhengLT&color=00FFB3)
+![Profile Views](https://komarev.com/ghpvc/?username=LyhengLT&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
